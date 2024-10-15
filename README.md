@@ -32,6 +32,14 @@
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+## 📸 Screenshots
+
+![mainPage](https://github.com/user-attachments/assets/f1c9b3da-98e6-40c8-a669-b0a5e638bd8d)
+
+![mainPage2](https://github.com/user-attachments/assets/11e74538-637a-4635-84d9-732398a3ce19)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ### This project is now OFFICIALLY accepted for
 
 <div align="center">
